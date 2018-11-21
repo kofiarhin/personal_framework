@@ -28,14 +28,14 @@
 
 		'app'  => array (
 
-			'name' => 'Employee Attendance'
+			'name' => 'Personal Framework'
 
 		), 
 
 		'mysql' => array(
 
 			'host' => '127.0.0.1',
-			'dbname' => 'employee_attendance',
+			'dbname' => 'test',
 			'user' => 'root', 
 			'password' =>'root'
 		),

@@ -10,9 +10,11 @@
 ?>
 
 
-			<h1 class='display-4 text-center'>Escode Framework</h1>
+			<h1 class='display-4 text-center'>Personal Framework</h1>
 
 			<div class="container">
+
+
 				
 			
 				<?php 
